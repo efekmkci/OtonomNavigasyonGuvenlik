@@ -44,4 +44,3 @@ Otonom sistemlerin gerçek zamanlı çalışabilmesi için performans optimize e
 3. `Main.java` sınıfını çalıştırarak eğitim sonuçlarını ve otonom karar çıktılarını konsoldan takip edin.
 
 ---
-**Teslimat Notu:** Bu proje; kodlar, sunum dosyası ve teknik video anlatımı şeklinde 3 ayrı parça olarak teslim edilmiştir.
